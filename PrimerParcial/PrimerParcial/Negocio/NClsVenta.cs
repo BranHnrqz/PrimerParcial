@@ -14,14 +14,20 @@ namespace PrimerParcial.Negocio
             Console.WriteLine("========================================================");
             Console.WriteLine("Porfavor, Ingresa el Nombre del Producto que Deseas Comprar:");
             string NombreProducto = Console.ReadLine();
+            venta.Nombre_producto = NombreProducto;
+
 
             Console.WriteLine("Ingresa el Precio del Producto");
             double Precio = Convert.ToDouble(Console.ReadLine());
+            venta.Precio = Precio;
 
             Console.WriteLine("Ingresa la Cantidad que Deseas Comprar de Este Producto");
             int Cantidad = Convert.ToInt32(Console.ReadLine());
+            venta.Cantidad = Cantidad;
 
             double Total_Venta = Precio * Cantidad;
+
+
 
             if(Total_Venta > 50)
             {
