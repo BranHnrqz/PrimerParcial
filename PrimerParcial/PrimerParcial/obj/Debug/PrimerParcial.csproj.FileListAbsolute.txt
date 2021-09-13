@@ -1,0 +1,7 @@
+C:\Users\BRANDON\Documents\GitHub\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe.config
+C:\Users\BRANDON\Documents\GitHub\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe
+C:\Users\BRANDON\Documents\GitHub\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.pdb
+C:\Users\BRANDON\Documents\GitHub\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csproj.AssemblyReference.cache
+C:\Users\BRANDON\Documents\GitHub\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csproj.CoreCompileInputs.cache
+C:\Users\BRANDON\Documents\GitHub\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.exe
+C:\Users\BRANDON\Documents\GitHub\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.pdb
