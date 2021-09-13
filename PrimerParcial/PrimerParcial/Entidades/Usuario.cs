@@ -23,5 +23,10 @@ namespace PrimerParcial.Entidades
             this.contra = contra;
         }
 
+        public override string ToString()
+        {
+            return "================\n" +
+                    "Hola! " + nombre;
+        }
     }
 }

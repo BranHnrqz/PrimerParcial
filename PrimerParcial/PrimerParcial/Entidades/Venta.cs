@@ -34,5 +34,13 @@ namespace PrimerParcial.Entidades
             this.precio = precio;
             this.cantidad = cantidad;
         }
+
+        public override string ToString()
+        {
+            return "Has Comprado El Producto: " + nombre_producto + "\n" +
+                   "Con un Precio de: $" + precio + "\n" +
+                   "La Cantidad de: " + cantidad + " unidades";
+                 
+        }
     }
 }

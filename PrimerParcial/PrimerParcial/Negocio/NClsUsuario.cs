@@ -9,11 +9,12 @@ namespace PrimerParcial.Negocio
 {
     class NClsUsuario
     {
-        
+        public int confirm;
         //Asignando Valores.
 
         public string Acceso(Usuario usuario)
         {
+            
             Console.WriteLine("=========================");
             Console.WriteLine("Bienvenido!");
             Console.WriteLine("=========================");
@@ -35,6 +36,7 @@ namespace PrimerParcial.Negocio
                {
                     if (Contra == usuario.Contra)
                     {
+                        confirm = 1;
                         return "Inicio de Sesión Correcto!";
                     }
                 }
